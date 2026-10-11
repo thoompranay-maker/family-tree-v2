@@ -53,6 +53,27 @@ window.FAMILY_DATA = [
   {id:"p46",fullName:"Muthayya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:[""],branch:"",notes:""},
   {id:"p47",fullName:"Anjaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:["p48"],branch:"",notes:""},
   {id:"p48",fullName:"Andalu",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p47"],branch:"",notes:""},
+  {id:"p49",fullName:"Venkat Narsaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p17"],spouseIds:[""],branch:"",notes:""},
+  {id:"p50",fullName:"Bhavanthaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p17"],spouseIds:[""],branch:"",notes:""},
+  {id:"p51",fullName:"Yadagiri",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p17"],spouseIds:[""],branch:"",notes:""},
+  {id:"p52",fullName:"Sathaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p17"],spouseIds:[""],branch:"",notes:""},
+  {id:"p53",fullName:"Shanthamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p17"],spouseIds:[""],branch:"",notes:""},
+  {id:"p54",fullName:"Rathnamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p17"],spouseIds:[""],branch:"",notes:""},
+  {id:"p55",fullName:"Sathamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p17"],spouseIds:[""],branch:"",notes:""},
+  {id:"p56",fullName:"Venkataiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p18"],spouseIds:["p61"],branch:"",notes:""},
+  {id:"p57",fullName:"Jaggaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p18"],spouseIds:["p62"],branch:"",notes:""},
+  {id:"p58",fullName:"Manemma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p18"],spouseIds:[""],branch:"",notes:""},
+  {id:"p59",fullName:"Ratnamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p18"],spouseIds:[""],branch:"",notes:""},
+  {id:"p60",fullName:"Janamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p18"],spouseIds:[""],branch:"",notes:""},
+  {id:"p61",fullName:"Anjamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p56"],branch:"",notes:""},
+  {id:"p62",fullName:"Anjamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p57"],branch:"",notes:""},
+  {id:"p63",fullName:"Mallaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p19"],spouseIds:["p66"],branch:"",notes:""},
+  {id:"p64",fullName:"Kishnaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p19"],spouseIds:["p67"],branch:"",notes:""},
+  {id:"p65",fullName:"Sanjeeva",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p19"],spouseIds:["p68"],branch:"",notes:""},
+  {id:"p66",fullName:"Laxmi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p63"],branch:"",notes:""},
+  {id:"p67",fullName:"Jayamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p64"],branch:"",notes:""},
+  {id:"p68",fullName:"Sumila",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p65"],branch:"",notes:""},
+  
 
 
 ];
