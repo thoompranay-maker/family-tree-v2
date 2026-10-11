@@ -48,8 +48,8 @@ window.FAMILY_DATA = [
   {id:"p41",fullName:"Papayya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p15"],spouseIds:[""],branch:"",notes:""},
   {id:"p42",fullName:"Rangaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p15"],spouseIds:[""],branch:"",notes:"Has 1 son and 1 daughter. But no data"},
   {id:"p43",fullName:"Dasharatha",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p15"],spouseIds:[""],branch:"",notes:"Has 1 son and 1 daughter. But no data"},
-  {id:"p44",fullName:"Rama Kishtaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:[""],branch:"",notes:""},
-  {id:"p45",fullName:"Narsamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p44"],branch:"",notes:""},
+  {id:"p44",fullName:"Rama Kishtaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:["p45"],branch:"",notes:""},
+  {id:"p45",fullName:"Narsamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:[""],branch:"",notes:""},
   {id:"p46",fullName:"Muthayya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:[""],branch:"",notes:""},
   {id:"p47",fullName:"Anjaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:[""],branch:"",notes:""},
 
