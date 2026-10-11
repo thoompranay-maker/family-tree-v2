@@ -43,6 +43,15 @@ window.FAMILY_DATA = [
   {id:"p36",fullName:"Rukkavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p8"],spouseIds:[""],branch:"",notes:""},
   {id:"p37",fullName:"Babbayya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p9"],spouseIds:[""],branch:"",notes:""},
   {id:"p38",fullName:"Narsaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p9"],spouseIds:[""],branch:"",notes:""},
+  {id:"p39",fullName:"Bowravva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p14"],spouseIds:[""],branch:"",notes:""},
+  {id:"p40",fullName:"Laxmi Narayana",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p15"],spouseIds:[""],branch:"",notes:"Has 2 sons. But no data"},
+  {id:"p41",fullName:"Papayya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p15"],spouseIds:[""],branch:"",notes:""},
+  {id:"p42",fullName:"Rangaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p15"],spouseIds:[""],branch:"",notes:"Has 1 son and 1 daughter. But no data"},
+  {id:"p43",fullName:"Dasharatha",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p15"],spouseIds:[""],branch:"",notes:"Has 1 son and 1 daughter. But no data"},
+  {id:"p44",fullName:"Rama Kishtaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:[""],branch:"",notes:""},
+  {id:"p45",fullName:"Narsamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p44"],branch:"",notes:""},
+  {id:"p46",fullName:"Muthayya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:[""],branch:"",notes:""},
+  {id:"p47",fullName:"Anjaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p16"],spouseIds:[""],branch:"",notes:""},
 
 
 ];
