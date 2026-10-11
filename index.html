@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore our family's story across generations.">
+  <title>Our Family Tree</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero" id="home">
+    <div class="hero-inner">
+      <p class="eyebrow">OUR FAMILY HERITAGE</p>
+      <h1>Our Family Tree</h1>
+      <p class="subtitle">One Family. Many Generations. A Lifetime of Connections.</p>
+      <p class="intro">Every name holds a story. Explore the people, partnerships, and generations that make our family unique.</p>
+      <button class="primary-btn" id="exploreBtn">Explore Our Family <span aria-hidden="true">↘</span></button>
+    </div>
+    <div class="hero-mark" aria-hidden="true">❧</div>
+  </header>
+
+  <main id="family">
+    <section class="toolbar" aria-label="Family tree controls">
+      <div class="search-wrap">
+        <label class="sr-only" for="searchInput">Search family members</label>
+        <span aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search" placeholder="Search a family member…" autocomplete="off">
+        <div id="searchResults" class="search-results" role="listbox" aria-label="Search results" hidden></div>
+      </div>
+      <div class="controls">
+        <label class="sr-only" for="branchFilter">Choose family branch</label>
+        <select id="branchFilter" aria-label="Family branch">
+          <option value="all">All family members</option>
+          <option value="paternal">Paternal branch</option>
+          <option value="maternal">Maternal branch</option>
+        </select>
+        <button class="control-btn" id="zoomOut" aria-label="Zoom out" title="Zoom out">−</button>
+        <button class="control-btn" id="zoomIn" aria-label="Zoom in" title="Zoom in">+</button>
+        <button class="control-btn text-btn" id="resetView">Reset view</button>
+        <button class="control-btn text-btn" id="homeView">Overview</button>
+      </div>
+    </section>
+    <div class="tree-note"><span class="legend-dot"></span> Select any person to open their profile. Drag to explore the tree.</div>
+    <section id="treeViewport" class="tree-viewport" tabindex="0" aria-label="Interactive family tree canvas">
+      <div id="treeStage" class="tree-stage">
+        <svg id="connections" class="connections" aria-hidden="true"></svg>
+        <div id="treeNodes" class="tree-nodes"></div>
+      </div>
+      <div id="emptyState" class="empty-state" hidden>No people found in this branch.</div>
+    </section>
+    <section class="below-tree">
+      <div><p class="eyebrow">ROOTED IN CONNECTION</p><h2>Every generation adds a chapter.</h2></div>
+      <p>This is a view-only family archive. Family details are maintained by the site owner in the project’s <code>family-data.js</code> file.</p>
+    </section>
+  </main>
+
+  <div id="profileBackdrop" class="backdrop" hidden></div>
+  <aside id="profilePanel" class="profile-panel" role="dialog" aria-modal="true" aria-labelledby="profileName" hidden>
+    <button id="closeProfile" class="close-btn" aria-label="Close profile">×</button>
+    <div id="profileContent"></div>
+  </aside>
+  <footer><span>OUR FAMILY TREE</span><span>Made to preserve the stories that connect us.</span></footer>
+  <script src="family-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
