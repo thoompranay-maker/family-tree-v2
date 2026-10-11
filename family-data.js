@@ -5,8 +5,8 @@
   photo can be a relative path such as "images/person-name.jpg".
 */
 window.FAMILY_DATA = [
-  {id:"p1",fullName:"Amara Rao",gender:"female",birthDate:"1932-04-11",deathDate:"2010-02-03",photo:"",role:"Great-grandmother",hometown:"Sample village",biography:"A fictional sample ancestor remembered for bringing the family together.",occupation:"Homemaker",parentIds:[],spouseIds:["p2"],branch:"paternal",notes:"Fictional sample record."},
-  {id:"p2",fullName:"Dev Rao",gender:"male",birthDate:"1928-09-19",deathDate:"2001-07-14",photo:"",role:"Great-grandfather",hometown:"Sample village",biography:"A fictional sample ancestor who helped establish the family home.",occupation:"Farmer",parentIds:[],spouseIds:["p1"],branch:"paternal",notes:"Fictional sample record."},
+  {id:"p1",fullName:"BABBAYYA",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[],spouseIds:[],branch:"paternal",notes:""},
+  {id:"p2",fullName:"Kishtaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
   {id:"p3",fullName:"Meera Rao",gender:"female",birthDate:"1954-01-23",photo:"",role:"Grandmother",hometown:"Hyderabad",biography:"A fictional grandmother who loved family gatherings.",occupation:"Teacher",parentIds:["p1","p2"],spouseIds:["p4"],branch:"paternal",notes:"Fictional sample record."},
   {id:"p4",fullName:"Raghav Rao",gender:"male",birthDate:"1950-06-05",photo:"",role:"Grandfather",hometown:"Hyderabad",biography:"A fictional grandfather and the family storyteller.",occupation:"Engineer",parentIds:[],spouseIds:["p3"],branch:"paternal",notes:"Fictional sample record."},
   {id:"m1",fullName:"Lakshmi Devi",gender:"female",birthDate:"1956-03-18",photo:"",role:"Grandmother",hometown:"Warangal",biography:"A fictional maternal-side ancestor known for her kindness.",occupation:"Homemaker",parentIds:[],spouseIds:["m2"],branch:"maternal",notes:"Fictional sample record."},
