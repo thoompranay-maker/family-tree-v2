@@ -9,6 +9,12 @@ window.FAMILY_DATA = [
   {id:"p2",fullName:"Kishtaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
   {id:"p3",fullName:"Yellaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
   {id:"p4",fullName:"Venkaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
+  {id:"p5",fullName:"Venkat Narsaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p2"],spouseIds:[""],branch:"",notes:""},
+  {id:"p6",fullName:"Aagaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p2"],spouseIds:[""],branch:"",notes:""},
+  {id:"p7",fullName:"Bhoomaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p3"],spouseIds:[""],branch:"",notes:""},
+  {id:"p8",fullName:"mallaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p3"],spouseIds:[""],branch:"",notes:""},
+  {id:"p9",fullName:"Narsaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p4"],spouseIds:[""],branch:"",notes:""},  
+  {id:"p10",fullName:"Radhamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p4"],spouseIds:[""],branch:"",notes:""},
 
 
 ];
