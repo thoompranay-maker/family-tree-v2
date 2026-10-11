@@ -7,8 +7,9 @@
 window.FAMILY_DATA = [
   {id:"p1",fullName:"BABBAYYA",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[],spouseIds:[],branch:"paternal",notes:""},
   {id:"p2",fullName:"Kishtaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
-  {id:"p3",fullName:"Meera Rao",gender:"female",birthDate:"1954-01-23",photo:"",role:"Grandmother",hometown:"Hyderabad",biography:"A fictional grandmother who loved family gatherings.",occupation:"Teacher",parentIds:["p1","p2"],spouseIds:["p4"],branch:"paternal",notes:"Fictional sample record."},
-  {id:"p4",fullName:"Raghav Rao",gender:"male",birthDate:"1950-06-05",photo:"",role:"Grandfather",hometown:"Hyderabad",biography:"A fictional grandfather and the family storyteller.",occupation:"Engineer",parentIds:[],spouseIds:["p3"],branch:"paternal",notes:"Fictional sample record."},
+  {id:"p3",fullName:"Yellaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
+  {id:"p4",fullName:"Venkaiah",gender:"Male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
+
   {id:"m1",fullName:"Lakshmi Devi",gender:"female",birthDate:"1956-03-18",photo:"",role:"Grandmother",hometown:"Warangal",biography:"A fictional maternal-side ancestor known for her kindness.",occupation:"Homemaker",parentIds:[],spouseIds:["m2"],branch:"maternal",notes:"Fictional sample record."},
   {id:"m2",fullName:"Srinivas Kumar",gender:"male",birthDate:"1952-12-02",photo:"",role:"Grandfather",hometown:"Warangal",biography:"A fictional maternal-side ancestor.",occupation:"Shopkeeper",parentIds:[],spouseIds:["m1"],branch:"maternal",notes:"Fictional sample record."},
   {id:"p5",fullName:"Anand Rao",gender:"male",birthDate:"1978-08-12",photo:"",role:"Father",hometown:"Hyderabad",biography:"Fictional sample parent.",occupation:"Accountant",parentIds:["p3","p4"],spouseIds:["m3"],branch:"paternal",notes:"Fictional sample record."},
