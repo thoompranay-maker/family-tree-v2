@@ -27,6 +27,22 @@ window.FAMILY_DATA = [
   {id:"p20",fullName:"Narsavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
   {id:"p21",fullName:"Lakshmavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
   {id:"p22",fullName:"Anthavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
+  {id:"p23",fullName:"Kodanda Ramaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p24",fullName:"Yellaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p25",fullName:"Babbayya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p26",fullName:"Venkata Narsaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p27",fullName:"Mallaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p28",fullName:"Rukkavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p29",fullName:"Shanthavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p30",fullName:"Janamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p31",fullName:"Manemma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p32",fullName:"Sakkubayi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p33",fullName:"Bharathavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p7"],spouseIds:[""],branch:"",notes:""},
+  {id:"p34",fullName:"Narsaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p8"],spouseIds:[""],branch:"",notes:""},
+  {id:"p35",fullName:"Sheshaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p8"],spouseIds:[""],branch:"",notes:""},
+  {id:"p36",fullName:"Rukkavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p8"],spouseIds:[""],branch:"",notes:""},
+  {id:"p37",fullName:"Babbayya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p9"],spouseIds:[""],branch:"",notes:""},
+  {id:"p38",fullName:"Narsaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p9"],spouseIds:[""],branch:"",notes:""},
 
 
 ];
