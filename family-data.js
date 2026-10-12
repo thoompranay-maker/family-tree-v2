@@ -84,6 +84,15 @@ window.FAMILY_DATA = [
   {id:"p77",fullName:"Anthaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p27"],spouseIds:["p79"],branch:"",notes:""},
   {id:"p78",fullName:"Balamani",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p27"],spouseIds:[""],branch:"",notes:""},
   {id:"p79",fullName:"Kalpana",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p77"],branch:"",notes:""},
+  {id:"p80",fullName:"Dharmaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p34"],spouseIds:["p82"],branch:"",notes:""},
+  {id:"p81",fullName:"Bhavani",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p34"],spouseIds:[""],branch:"",notes:""},
+  {id:"p82",fullName:"W/o Dharmaiah",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p80"],branch:"",notes:""},
+  {id:"p83",fullName:"Mallikarjun",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p35"],spouseIds:["p86"],branch:"",notes:""},
+  {id:"p84",fullName:"Ramulu",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p35"],spouseIds:["p87"],branch:"",notes:""},
+  {id:"p85",fullName:"Mahender",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p35"],spouseIds:["p88"],branch:"",notes:""},
+  {id:"p86",fullName:"Karuna",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p83"],branch:"",notes:""},
+  {id:"p87",fullName:"Sunitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p84"],branch:"",notes:""},
+  {id:"p88",fullName:"Lavanya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p85"],branch:"",notes:""},
   
 
 
