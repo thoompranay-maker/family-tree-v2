@@ -159,6 +159,12 @@ window.FAMILY_DATA = [
   {id:"p152",fullName:"Krishna",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p52"],spouseIds:["p154"],branch:"",notes:""},
   {id:"p153",fullName:"W/o Kailap",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p151"],branch:"",notes:""},
   {id:"p154",fullName:"W/o Krishna",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p152"],branch:"",notes:""},
+  {id:"p155",fullName:"Rani",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p56"],spouseIds:[""],branch:"",notes:""},
+  {id:"p156",fullName:"Uma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p56"],spouseIds:[""],branch:"",notes:""},
+  {id:"p157",fullName:"Devender",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p56"],spouseIds:["p159"],branch:"",notes:""},
+  {id:"p158",fullName:"Jithender",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p56"],spouseIds:["p160"],branch:"",notes:""},
+  {id:"p159",fullName:"Aruna",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p157"],branch:"",notes:""},
+  {id:"p160",fullName:"Vasantha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p158"],branch:"",notes:""},
   
 
 
