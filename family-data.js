@@ -81,6 +81,9 @@ window.FAMILY_DATA = [
   {id:"p74",fullName:"W/o Dharmaiah",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p69"],branch:"",notes:""},
   {id:"p75",fullName:"Lalitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p70"],branch:"",notes:""},
   {id:"p76",fullName:"Kavitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p71"],branch:"",notes:""},
+  {id:"p77",fullName:"Anthaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p27"],spouseIds:["p79"],branch:"",notes:""},
+  {id:"p78",fullName:"Balamani",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p27"],spouseIds:[""],branch:"",notes:""},
+  {id:"p79",fullName:"Kalpana",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p77"],branch:"",notes:""},
   
 
 
