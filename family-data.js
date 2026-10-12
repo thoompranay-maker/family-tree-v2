@@ -171,6 +171,16 @@ window.FAMILY_DATA = [
   {id:"p164",fullName:"Venu",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p57"],spouseIds:["p166"],branch:"",notes:""},
   {id:"p165",fullName:"Kavitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p163"],branch:"",notes:""},
   {id:"p166",fullName:"W/o Venu",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p164"],branch:"",notes:""},
+  {id:"p167",fullName:"Amarender",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p63"],spouseIds:["p170"],branch:"",notes:""},
+  {id:"p168",fullName:"Mahender",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p63"],spouseIds:[""],branch:"",notes:""},
+  {id:"p169",fullName:"Bujji",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p63"],spouseIds:[""],branch:"",notes:""},
+  {id:"p170",fullName:"Sandhya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p167"],branch:"",notes:""},
+  {id:"p171",fullName:"W/o Mahender",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p168"],branch:"",notes:""},
+  {id:"p172",fullName:"Mahi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p64"],spouseIds:[""],branch:"",notes:""},
+  {id:"p173",fullName:"Nirmala",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p64"],spouseIds:[""],branch:"",notes:""},
+  {id:"p174",fullName:"Kiran",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p65"],spouseIds:["p176"],branch:"",notes:""},
+  {id:"p175",fullName:"Chitti",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p65"],spouseIds:[""],branch:"",notes:""},
+  {id:"p176",fullName:"W/o Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p174"],branch:"",notes:""},
   
 
 
