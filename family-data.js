@@ -165,6 +165,12 @@ window.FAMILY_DATA = [
   {id:"p158",fullName:"Jithender",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p56"],spouseIds:["p160"],branch:"",notes:""},
   {id:"p159",fullName:"Aruna",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p157"],branch:"",notes:""},
   {id:"p160",fullName:"Vasantha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p158"],branch:"",notes:""},
+  {id:"p161",fullName:"Shobha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p57"],spouseIds:[""],branch:"",notes:""},
+  {id:"p162",fullName:"Chitti",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p57"],spouseIds:[""],branch:"",notes:""},
+  {id:"p163",fullName:"Raju",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p57"],spouseIds:["p165"],branch:"",notes:""},
+  {id:"p164",fullName:"Venu",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p57"],spouseIds:["p166"],branch:"",notes:""},
+  {id:"p165",fullName:"Kavitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p163"],branch:"",notes:""},
+  {id:"p166",fullName:"W/o Venu",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p164"],branch:"",notes:""},
   
 
 
