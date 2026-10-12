@@ -73,6 +73,14 @@ window.FAMILY_DATA = [
   {id:"p66",fullName:"Laxmi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p63"],branch:"",notes:""},
   {id:"p67",fullName:"Jayamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p64"],branch:"",notes:""},
   {id:"p68",fullName:"Sumila",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p65"],branch:"",notes:""},
+  {id:"p69",fullName:"Dharmaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p26"],spouseIds:["p74"],branch:"",notes:""},
+  {id:"p70",fullName:"Mallaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p26"],spouseIds:["p75"],branch:"",notes:""},
+  {id:"p71",fullName:"Boopathi",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p26"],spouseIds:["p76"],branch:"",notes:""},
+  {id:"p72",fullName:"Balavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p26"],spouseIds:[""],branch:"",notes:""},
+  {id:"p73",fullName:"Sugunavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p26"],spouseIds:[""],branch:"",notes:""},
+  {id:"p74",fullName:"W/o Dharmaiah",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p69"],branch:"",notes:""},
+  {id:"p75",fullName:"Lalitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p70"],branch:"",notes:""},
+  {id:"p76",fullName:"Kavitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p71"],branch:"",notes:""},
   
 
 
