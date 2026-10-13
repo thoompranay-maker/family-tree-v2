@@ -208,6 +208,17 @@ window.FAMILY_DATA = [
   {id:"p201",fullName:"Sai Priya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p199"],branch:"",notes:""},
   {id:"p202",fullName:"Rithwik",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p114"],spouseIds:[""],branch:"",notes:""},
   {id:"p203",fullName:"Chaitrika",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p114"],spouseIds:[""],branch:"",notes:""},
+  {id:"p204",fullName:"Rajkapur",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p132"],spouseIds:["p208"],branch:"",notes:""},
+  {id:"p205",fullName:"Ranjith",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p132"],spouseIds:["p209"],branch:"",notes:""},
+  {id:"p206",fullName:"Radhika",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p132"],spouseIds:[""],branch:"",notes:""},
+  {id:"p207",fullName:"Rajini",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p132"],spouseIds:[""],branch:"",notes:""},
+  {id:"p208",fullName:"W/o Rajkapur",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p204"],branch:"",notes:""},
+  {id:"p209",fullName:"W/o Ranjith",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p205"],branch:"",notes:""},
+  {id:"p210",fullName:"Maheshwari",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p133"],spouseIds:[""],branch:"",notes:""},
+  {id:"p211",fullName:"Manjula",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p133"],spouseIds:[""],branch:"",notes:""},
+  {id:"p212",fullName:"Madhavi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p133"],spouseIds:[""],branch:"",notes:""},
+  {id:"p213",fullName:"Shyam Prasad",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p133"],spouseIds:["p214"],branch:"",notes:""},
+  {id:"p214",fullName:"W/o Shyam",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p213"],branch:"",notes:""},
 
 
 ];
