@@ -231,6 +231,8 @@ window.FAMILY_DATA = [
   {id:"p224",fullName:"D/o Kishore",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p222"],spouseIds:[""],branch:"",notes:""},
   {id:"p225",fullName:"Akshara",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p167"],spouseIds:[""],branch:"",notes:""},
   {id:"p226",fullName:"Lovekya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p167"],spouseIds:[""],branch:"",notes:""},
+  {id:"p227",fullName:"Adithya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p174"],spouseIds:[""],branch:"",notes:""},
+  {id:"p228",fullName:"Sanjana",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p174"],spouseIds:[""],branch:"",notes:""},
 
 
 ];
