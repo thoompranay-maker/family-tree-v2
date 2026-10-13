@@ -119,7 +119,7 @@ window.FAMILY_DATA = [
   {id:"p112",fullName:"Jyothi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p96"],spouseIds:[""],branch:"",notes:""},
   {id:"p113",fullName:"Kavitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p96"],spouseIds:[""],branch:"",notes:""},
   {id:"p114",fullName:"Srikanth",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p96"],spouseIds:["p115"],branch:"",notes:""},
-  {id:"p115",fullName:"Suguna",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p114"],branch:"",notes:""},
+  {id:"p115",fullName:"Sunandha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p114"],branch:"",notes:""},
   {id:"p116",fullName:"Narsimlu",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p41"],spouseIds:["p120"],branch:"",notes:""},
   {id:"p117",fullName:"Raghupathi",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p41"],spouseIds:[""],branch:"",notes:""},
   {id:"p118",fullName:"Vijaya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p41"],spouseIds:[""],branch:"",notes:""},
