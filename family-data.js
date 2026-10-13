@@ -194,7 +194,7 @@ window.FAMILY_DATA = [
   {id:"p187",fullName:"Siri",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p83"],spouseIds:[""],branch:"",notes:""},
   {id:"p188",fullName:"Bhanu",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p84"],spouseIds:["p190"],branch:"",notes:""},
   {id:"p189",fullName:"Maheshwari",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p84"],spouseIds:[""],branch:"",notes:""},
-  {id:"p190",fullName:"W/o Bhanu",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p188"],branch:"",notes:""},
+  {id:"p190",fullName:"Hari Priya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p188"],branch:"",notes:""},
   {id:"p191",fullName:"Pravalika",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p85"],spouseIds:[""],branch:"",notes:""},
   {id:"p192",fullName:"Pradeepthi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p85"],spouseIds:[""],branch:"",notes:""},
   {id:"p193",fullName:"Swapna",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p106"],spouseIds:[""],branch:"",notes:""},
