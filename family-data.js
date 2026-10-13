@@ -141,7 +141,7 @@ window.FAMILY_DATA = [
   {id:"p134",fullName:"Hanmaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p49"],spouseIds:["p139"],branch:"",notes:""},
   {id:"p135",fullName:"Seshamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p49"],spouseIds:[""],branch:"",notes:""},
   {id:"p136",fullName:"Jayamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p49"],spouseIds:[""],branch:"",notes:""},
-  {id:"p137",fullName:"W/o Padmaiah",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p132"],branch:"",notes:""},
+  {id:"p137",fullName:"Sushila",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p132"],branch:"",notes:""},
   {id:"p138",fullName:"Kamlamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p133"],branch:"",notes:""},
   {id:"p139",fullName:"W/o Hanmaiah",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p134"],branch:"",notes:""},
   {id:"p140",fullName:"Sathnarayana",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p50"],spouseIds:["p143"],branch:"",notes:""},
