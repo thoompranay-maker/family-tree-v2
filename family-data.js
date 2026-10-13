@@ -243,6 +243,14 @@ window.FAMILY_DATA = [
   {id:"p236",fullName:"Vinay",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p117"],spouseIds:[""],branch:"",notes:""},
   {id:"p237",fullName:"Bhanu Prasad",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p77"],spouseIds:[""],branch:"",notes:""},
   {id:"p238",fullName:"Bhanu Prakash",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p77"],spouseIds:[""],branch:"",notes:""},
+  {id:"p239",fullName:"Kiran",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p100"],spouseIds:["p241"],branch:"",notes:""},
+  {id:"p240",fullName:"Uday Kiran",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p100"],spouseIds:["p242"],branch:"",notes:""},
+  {id:"p241",fullName:"W/o Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p239"],branch:"",notes:""},
+  {id:"p242",fullName:"W/o Uday Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p240"],branch:"",notes:""},
+  {id:"p243",fullName:"S/o Kiran",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p239"],spouseIds:[""],branch:"",notes:""},
+  {id:"p244",fullName:"D/o Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p239"],spouseIds:[""],branch:"",notes:""},
+  {id:"p245",fullName:"S/o Uday Kiran",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p240"],spouseIds:[""],branch:"",notes:""},
+  {id:"p246",fullName:"D/o Uday Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p240"],spouseIds:[""],branch:"",notes:""},
 
 
 ];
