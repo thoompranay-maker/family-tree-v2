@@ -170,7 +170,7 @@ window.FAMILY_DATA = [
   {id:"p163",fullName:"Raju",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p57"],spouseIds:["p165"],branch:"",notes:""},
   {id:"p164",fullName:"Venu",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p57"],spouseIds:["p166"],branch:"",notes:""},
   {id:"p165",fullName:"Kavitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p163"],branch:"",notes:""},
-  {id:"p166",fullName:"W/o Venu",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p164"],branch:"",notes:""},
+  {id:"p166",fullName:"Uma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p164"],branch:"",notes:""},
   {id:"p167",fullName:"Amarender",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p63"],spouseIds:["p170"],branch:"",notes:""},
   {id:"p168",fullName:"Mahender",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p63"],spouseIds:[""],branch:"",notes:""},
   {id:"p169",fullName:"Bujji",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p63"],spouseIds:[""],branch:"",notes:""},
