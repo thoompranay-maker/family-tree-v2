@@ -189,7 +189,14 @@ window.FAMILY_DATA = [
   {id:"p182",fullName:"W/o Karthik",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p181"],branch:"",notes:""},
   {id:"p183",fullName:"Pranay",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p71"],spouseIds:[""],branch:"",notes:""},
   {id:"p184",fullName:"Vamshi",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p71"],spouseIds:[""],branch:"",notes:""},
-  
+  {id:"p185",fullName:"Shruthi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p83"],spouseIds:[""],branch:"",notes:""},
+  {id:"p186",fullName:"Keerthi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p83"],spouseIds:[""],branch:"",notes:""},
+  {id:"p187",fullName:"Siri",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p83"],spouseIds:[""],branch:"",notes:""},
+  {id:"p188",fullName:"Bhanu",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p84"],spouseIds:["p190"],branch:"",notes:""},
+  {id:"p189",fullName:"Maheshwari",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p84"],spouseIds:[""],branch:"",notes:""},
+  {id:"p190",fullName:"W/o Bhanu",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p188"],branch:"",notes:""},
+  {id:"p191",fullName:"Pravalika",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p85"],spouseIds:[""],branch:"",notes:""},
+  {id:"p192",fullName:"Pradeepthi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p85"],spouseIds:[""],branch:"",notes:""},
 
 
 ];
