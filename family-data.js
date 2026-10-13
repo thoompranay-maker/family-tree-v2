@@ -180,7 +180,7 @@ window.FAMILY_DATA = [
   {id:"p173",fullName:"Nirmala",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p64"],spouseIds:[""],branch:"",notes:""},
   {id:"p174",fullName:"Kiran",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p65"],spouseIds:["p176"],branch:"",notes:""},
   {id:"p175",fullName:"Chitti",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p65"],spouseIds:[""],branch:"",notes:""},
-  {id:"p176",fullName:"W/o Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p174"],branch:"",notes:""},
+  {id:"p176",fullName:"Sangeetha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p174"],branch:"",notes:""},
   {id:"p177",fullName:"Naveen",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p69"],spouseIds:[""],branch:"",notes:""},
   {id:"p178",fullName:"Praveen",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p69"],spouseIds:[""],branch:"",notes:""},
   {id:"p179",fullName:"Rajini",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p70"],spouseIds:[""],branch:"",notes:""},
