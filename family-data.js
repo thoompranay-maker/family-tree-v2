@@ -124,7 +124,7 @@ window.FAMILY_DATA = [
   {id:"p117",fullName:"Raghupathi",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p41"],spouseIds:[""],branch:"",notes:""},
   {id:"p118",fullName:"Vijaya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p41"],spouseIds:[""],branch:"",notes:""},
   {id:"p119",fullName:"Swarajyam",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p41"],spouseIds:[""],branch:"",notes:""},
-  {id:"p120",fullName:"W/o Narsimlu",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p116"],branch:"",notes:""},
+  {id:"p120",fullName:"Vijaya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p116"],branch:"",notes:""},
   {id:"p121",fullName:"Jayamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p46"],spouseIds:[""],branch:"",notes:""},
   {id:"p122",fullName:"Venkatamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p46"],spouseIds:[""],branch:"",notes:""},
   {id:"p123",fullName:"Sathamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p46"],spouseIds:[""],branch:"",notes:""},
@@ -225,6 +225,9 @@ window.FAMILY_DATA = [
   {id:"p218",fullName:"Sony",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p141"],spouseIds:[""],branch:"",notes:""},
   {id:"p219",fullName:"Vinod",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p141"],spouseIds:["p220"],branch:"",notes:""},
   {id:"p220",fullName:"W/o Vinod",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p219"],branch:"",notes:""},
+  {id:"p221",fullName:"Pinky",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p116"],spouseIds:[""],branch:"",notes:""},
+  {id:"p222",fullName:"Kishore",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p116"],spouseIds:["p223"],branch:"",notes:""},
+  {id:"p223",fullName:"W/o Kishore",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p222"],branch:"",notes:""},
 
 
 ];
