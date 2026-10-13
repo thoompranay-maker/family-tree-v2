@@ -23,7 +23,7 @@ window.FAMILY_DATA = [
   {id:"p16",fullName:"Narayya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
   {id:"p17",fullName:"Rama Chandraiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
   {id:"p18",fullName:"Mallaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
-  {id:"p19",fullName:"Narsaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
+  {id:"p19",fullName:"Narsaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:["p229"],branch:"",notes:""},
   {id:"p20",fullName:"Narsavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
   {id:"p21",fullName:"Lakshmavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
   {id:"p22",fullName:"Anthavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p6"],spouseIds:[""],branch:"",notes:""},
@@ -233,6 +233,7 @@ window.FAMILY_DATA = [
   {id:"p226",fullName:"Lovekya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p167"],spouseIds:[""],branch:"",notes:""},
   {id:"p227",fullName:"Adithya",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p174"],spouseIds:[""],branch:"",notes:""},
   {id:"p228",fullName:"Sanjana",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p174"],spouseIds:[""],branch:"",notes:""},
+  {id:"p229",fullName:"Laxmi",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p19"],branch:"",notes:""},
 
 
 ];
