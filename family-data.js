@@ -251,6 +251,7 @@ window.FAMILY_DATA = [
   {id:"p244",fullName:"D/o Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p239"],spouseIds:[""],branch:"",notes:""},
   {id:"p245",fullName:"S/o Uday Kiran",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p240"],spouseIds:[""],branch:"",notes:""},
   {id:"p246",fullName:"D/o Uday Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p240"],spouseIds:[""],branch:"",notes:""},
+  {id:"p247",fullName:"Pradya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p199"],spouseIds:[""],branch:"",notes:""},
 
 
 ];
