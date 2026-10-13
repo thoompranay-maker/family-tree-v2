@@ -818,11 +818,11 @@
           ctx.fillStyle = "#4f5f52";
           ctx.font = "21px Arial, sans-serif";
           ctx.fillText("Information in this family tree was collected from various sources; some details may need correction.", canvas.width / 2, 83);
-          ctx.fillText("Please forgive any mistakes and let us know so we can correct them. Contact Pranay Kumar on WhatsApp: +91-9701972843.", canvas.width / 2, 111);
+          ctx.fillText("Please forgive any mistakes and let us know so we can correct them.", canvas.width / 2, 111);
 
-          ctx.font = "21px Arial, 'Noto Sans Telugu', Gautami, sans-serif";
+          ctx.font = "21px Arial, 'Noto Sans Telugu', Ponnala Regular, sans-serif";
           ctx.fillText("ఈ కుటుంబ వృక్షంలోని సమాచారం వివిధ వనరుల నుండి సేకరించబడింది. కొన్ని వివరాలకు సవరణలు అవసరం కావచ్చు.", canvas.width / 2, 151);
-          ctx.fillText("ఏవైనా తప్పులు ఉంటే దయచేసి క్షమించి మాకు తెలియజేయండి. సవరణల కోసం ప్రణయ్ కుమార్‌ను వాట్సాప్ ద్వారా +91-9701972843 నంబర్‌లో సంప్రదించండి.", canvas.width / 2, 179);
+          ctx.fillText("ఏవైనా తప్పులు ఉంటే దయచేసి క్షమించి మాకు తెలియజేయండి.", canvas.width / 2, 179);
 
           ctx.fillStyle = "#6c765f";
           ctx.font = "italic 19px Georgia, serif";
