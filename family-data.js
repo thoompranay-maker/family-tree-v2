@@ -108,7 +108,7 @@ window.FAMILY_DATA = [
   {id:"p101",fullName:"Sudhakar",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p89"],spouseIds:["p104"],branch:"",notes:""},
   {id:"p102",fullName:"Padma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p89"],spouseIds:[""],branch:"",notes:""},
   {id:"p103",fullName:"Jyothi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p100"],branch:"",notes:""},
-  {id:"p104",fullName:"W/o Sudhakar",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p101"],branch:"",notes:""},
+  {id:"p104",fullName:"Sharadha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p101"],branch:"",notes:""},
   {id:"p105",fullName:"Swarupa",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p95"],spouseIds:[""],branch:"",notes:""},
   {id:"p106",fullName:"Ravinder",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p95"],spouseIds:["p108"],branch:"",notes:""},
   {id:"p107",fullName:"Ashok",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p95"],spouseIds:["p109"],branch:"",notes:""},
