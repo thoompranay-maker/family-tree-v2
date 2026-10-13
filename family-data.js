@@ -181,6 +181,14 @@ window.FAMILY_DATA = [
   {id:"p174",fullName:"Kiran",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p65"],spouseIds:["p176"],branch:"",notes:""},
   {id:"p175",fullName:"Chitti",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p65"],spouseIds:[""],branch:"",notes:""},
   {id:"p176",fullName:"W/o Kiran",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p174"],branch:"",notes:""},
+  {id:"p177",fullName:"Naveen",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p69"],spouseIds:[""],branch:"",notes:""},
+  {id:"p178",fullName:"Praveen",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p69"],spouseIds:[""],branch:"",notes:""},
+  {id:"p179",fullName:"Rajini",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p70"],spouseIds:[""],branch:"",notes:""},
+  {id:"p180",fullName:"Anitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p70"],spouseIds:[""],branch:"",notes:""},
+  {id:"p181",fullName:"Karthik",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p70"],spouseIds:["p182"],branch:"",notes:""},
+  {id:"p182",fullName:"W/o Karthik",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p181"],branch:"",notes:""},
+  {id:"p183",fullName:"Pranay",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p71"],spouseIds:[""],branch:"",notes:""},
+  {id:"p184",fullName:"Vamshi",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p71"],spouseIds:[""],branch:"",notes:""},
   
 
 
