@@ -254,6 +254,9 @@ window.FAMILY_DATA = [
   {id:"p247",fullName:"Pradya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p199"],spouseIds:[""],branch:"",notes:""},
   {id:"p248",fullName:"Shreyansh",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p195"],spouseIds:[""],branch:"",notes:""},
   {id:"p249",fullName:"Vedansh",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p195"],spouseIds:[""],branch:"",notes:""},
+  {id:"p250",fullName:"Nainika",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p194"],spouseIds:[""],branch:"",notes:""},
+  {id:"p251",fullName:"D/o Rakesh",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p194"],spouseIds:[""],branch:"",notes:""},
+  {id:"p252",fullName:"S/o Rakesh",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p194"],spouseIds:[""],branch:"",notes:""},
 
 
 ];
