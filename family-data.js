@@ -197,6 +197,15 @@ window.FAMILY_DATA = [
   {id:"p190",fullName:"W/o Bhanu",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p188"],branch:"",notes:""},
   {id:"p191",fullName:"Pravalika",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p85"],spouseIds:[""],branch:"",notes:""},
   {id:"p192",fullName:"Pradeepthi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p85"],spouseIds:[""],branch:"",notes:""},
+  {id:"p193",fullName:"Swapna",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p106"],spouseIds:[""],branch:"",notes:""},
+  {id:"p194",fullName:"Rakesh",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p106"],spouseIds:["p196"],branch:"",notes:""},
+  {id:"p195",fullName:"Sudheer",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p106"],spouseIds:["p197"],branch:"",notes:""},
+  {id:"p196",fullName:"Akshitha",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p194"],branch:"",notes:""},
+  {id:"p197",fullName:"Sravani",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p195"],branch:"",notes:""},
+  {id:"p198",fullName:"Jaya Sri",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p107"],spouseIds:[""],branch:"",notes:""},
+  {id:"p199",fullName:"Pranay Kumar",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p107"],spouseIds:["p201"],branch:"",notes:""},
+  {id:"p200",fullName:"Akhila",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p107"],spouseIds:[""],branch:"",notes:""},
+  {id:"p201",fullName:"Sai Priya",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p199"],branch:"",notes:""},
 
 
 ];
