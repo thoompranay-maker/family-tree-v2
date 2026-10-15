@@ -99,7 +99,7 @@ window.FAMILY_DATA = [
   {id:"p92",fullName:"Taravva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p37"],spouseIds:[""],branch:"",notes:""},
   {id:"p93",fullName:"Manemma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p37"],spouseIds:[""],branch:"",notes:""},
   {id:"p94",fullName:"Venkatavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p37"],spouseIds:[""],branch:"",notes:""},
-  {id:"p95",fullName:"Venkaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p38"],spouseIds:[""],branch:"",notes:""},
+  {id:"p95",fullName:"Venkaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p38"],spouseIds:["p256"],branch:"",notes:""},
   {id:"p96",fullName:"Dasharatha",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p38"],spouseIds:[""],branch:"",notes:""},
   {id:"p97",fullName:"Radhavva",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p38"],spouseIds:[""],branch:"",notes:""},
   {id:"p98",fullName:"Sakkubayi",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p38"],spouseIds:[""],branch:"",notes:""},
@@ -259,6 +259,7 @@ window.FAMILY_DATA = [
   {id:"p252",fullName:"Divyansh",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p194"],spouseIds:[""],branch:"",notes:""},
   {id:"p253",fullName:"Vamshi",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p101"],spouseIds:[""],branch:"",notes:""},
   {id:"p254",fullName:"Shilpa",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p101"],spouseIds:[""],branch:"",notes:""},
+  {id:"p256",fullName:"Janamma",gender:"female",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[""],spouseIds:["p95"],branch:"",notes:""},
 
 
 ];
