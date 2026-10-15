@@ -964,7 +964,7 @@
               teluguCtx.clearRect(0, 0, teluguCanvas.width, teluguCanvas.height);
               teluguCtx.textAlign = "center"; teluguCtx.textBaseline = "middle";
               teluguCtx.fillStyle = "#1f2a23";
-              teluguCtx.font = "400 78px Ponnala, sans-serif";
+              teluguCtx.font = "700 78px Ponnala, sans-serif";
               teluguCtx.fillText(String(person.teluguName), teluguCanvas.width / 2, 85, 1120);
               doc.addImage(teluguCanvas.toDataURL("image/png"), "PNG", X(pos.x + 8), Y(pos.y + 82), S(cardW - 16), S(20), undefined, "FAST");
             }
