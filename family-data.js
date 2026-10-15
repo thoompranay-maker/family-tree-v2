@@ -5,7 +5,7 @@
   photo can be a relative path such as "images/person-name.jpg".
 */
 window.FAMILY_DATA = [
-  {id:"p1",fullName:"BABBAYYA",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[],spouseIds:[],branch:"paternal",notes:""},
+  {id:"p1",fullName:"BABBAYYA",teluguName:"బబ్బయ్య",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:[],spouseIds:[],branch:"paternal",notes:""},
   {id:"p2",fullName:"Kishtaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
   {id:"p3",fullName:"Yellaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
   {id:"p4",fullName:"Venkaiah",gender:"male",birthDate:"",deathDate:"",photo:"",role:"",hometown:"",biography:"",occupation:"",parentIds:["p1"],spouseIds:[""],branch:"",notes:""},
